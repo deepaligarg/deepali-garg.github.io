@@ -14,8 +14,8 @@ I am fascinated about the data and has an interest in solving mysteries behind i
 I am an Computer Science Engineer who has done her B.Tech(Hons) from Jaypee Institute of Information Technology, Noida, India.
 
 
-**Hobbies**
-***
-I love to listen songs and groove on them. Recently, I have been a fitness enthusiast and loves to workout. 
+## Hobbies
+---
+Recently, I have been a fitness enthusiast and loves to workout. Apart from that, I love to listen songs and groove on them.
 
 
