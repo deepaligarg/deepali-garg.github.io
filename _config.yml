@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name"
+title                    : "Deepali Garg"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Deepali Garg"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -62,7 +62,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "@deepaligarg585"
 facebook:
   username               :
   app_id                 :
@@ -84,32 +84,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Deepali Garg"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Your Location"
-  email            :
+  bio              : ""
+  location         : "Ghaziabad, Uttar Pradesh, India"
+  email            : "deepaligarg585@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "deepaligargdg" #https://www.facebook.com/deepaligargdg
   foursquare       :
-  github           : "Your Github"
+  github           : "deepaligarg"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "deepali_garg09"
   lastfm           :
-  linkedin         : "dataoptimal" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "deepali-garg" # https://www.linkedin.com/in/deepali-garg/
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "@deepaligarg585"
   vine             :
   weibo            :
   xing             :
