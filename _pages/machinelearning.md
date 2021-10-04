@@ -11,7 +11,7 @@ header:
 ---
 ## Natural Language Processing with Deep Learning
 
-### Sentiment Analysis Using IMDB Movies Reviews
+### Sentiment Analysis Using IMDB Movies Review
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/deepaligarg/Sentiment-Analysis-using-IMDB-movies-reviews)
 [![View on GitHub](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](https://github.com/deepaligarg/Sentiment-Analysis-using-IMDB-movies-reviews)
