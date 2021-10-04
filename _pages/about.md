@@ -17,6 +17,6 @@ I am a Computer Science Engineer graduated with B.Tech(Hons) from Jaypee Institu
 ## Hobbies
 
 Recently, I have been a fitness enthusiast and loves to workout. Apart from that, I love to listen songs and groove on them.  
-I also fond of travelling and exploring new places and cuisines.
+I am also fond of travelling and exploring new places and cuisines.
 
 
