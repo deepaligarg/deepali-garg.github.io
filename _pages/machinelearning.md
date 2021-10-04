@@ -38,7 +38,8 @@ The code contains text pre-processing and detailed EDA to yield following trends
  4. Artists with maximum number of Songs.
  5. Songs released Year-wise.
 
-Also the popularity of the songs have been estimated using Deep Learning with **Neaural Networks**.</span>
+Also the popularity of the songs have been estimated using Deep Learning with **Neaural Networks**. </span>
+
  
  ---
  ### Fake New Classification
@@ -89,7 +90,8 @@ For clustering, unsupervised machine learning algorithms are used such as-
 1. KMeans-Clustering
 2. Silhoutte Method for determining optimal values of clusters(K in KMeans)
 3. Hierarchial Clustering - Methods: Single, Average and Complete.
-4. DBSCAN</span>
+4. DBSCAN </span>
+
 
 ---
 ### Clustering of Credit Card Users
@@ -106,7 +108,7 @@ The project is a blend of detailed EDA and unsupervised machine learning algorit
 ---
 ## Supervised Machine Learning
 
-### Credit-Card-Imbalanced-Dataset
+### Handling Imbalanced Credit Card Dataset
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/deepaligarg/Credit-Card-Imbalanced-Dataset)
 [![View on GitHub](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](https://github.com/deepaligarg/Sentiment-Analysis-using-IMDB-movies-reviews)
@@ -119,7 +121,8 @@ The 3 Techniques discussed in the notebook are :
 2. Over-sampling
 3. SMOTE Technique
 
-Then a **Random Forest** algorithm is applied to check the performance of each technique.</span>
+Then a **Random Forest** algorithm is applied to check the performance of each technique. </span>
+
 
 ---
 ### Wine Quality Prediction
@@ -153,7 +156,9 @@ The project contains detailed EDA of the dataset taken and the prediction is don
 
 <span style="font-family:Segoe UI; font-size:1;">This project involves predicting the prices of the cars in order to give insights to the company to set up business in different locations.
 The project containes EDA and VIF (Variance Inflation Factor) for measuring amount of multicolinearity in a set of multiple regression variables. 
-Feature seclection is done through sklearn's library - RFE and prediction by applying Linear Regression. </span>
+Feature seclection is done through sklearn's library - RFE and prediction by applying Linear Regression.</span>
+
+
 ---
 ### Salary Prediction
 
