@@ -17,11 +17,11 @@ header:
 [![View on GitHub](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](https://github.com/deepaligarg/Sentiment-Analysis-using-IMDB-movies-reviews)
 [![View on GitHub](https://img.shields.io/badge/Database-View_Database-blueviolet?logo=Microsoft%20Excel)](https://github.com/deepaligarg/Sentiment-Analysis-using-IMDB-movies-reviews)
 
-<span style="font-family:Aerial; font-size:2;">This is an NLP and Flask based application which involves predicting the sentiments of the sentences as positive or negative. The classifier is trained on a huge dataset of IMDB movies reviews.  The model is then hosted using Flask to be used by end users.
+This is an NLP and Flask based application which involves predicting the sentiments of the sentences as positive or negative. The classifier is trained on a huge dataset of IMDB movies reviews.  The model is then hosted using Flask to be used by end users.
 This project has text pre-processing done through NLTK and Regex and EDA for understanding the features and data well.
 The text is then coverted into vectors using 2 techniques - **Countvectorize and TF-IDF**.
 Two Machine Learning algorithms **(Naive Bayes and SVM)** are then used with combonitions of above 2 techniques and it is found that Naive Bayes with TF-IDF outstands the other algorithm.
-The model is then saved in a **Pickle file** and used in the **Flask Application** to host the website on localhost.love</span>
+The model is then saved in a **Pickle file** and used in the **Flask Application** to host the website on localhost.
 
 ---
 ### Spotify-EDA
@@ -100,7 +100,7 @@ For clustering, unsupervised machine learning algorithms are used such as-
 
 
 This is a use-case of clustering the credit card customers on the basis of various attributes using Unsupervised Machine Learning Techniques.
-The project is a blend of detailed EDA and unsupervised machine learning algorithms such as **K-Means Clustering, Hierarchial Clustering and **DBSCAN**.**
+The project is a blend of detailed EDA and unsupervised machine learning algorithms such as **K-Means Clustering, Hierarchial Clustering and DBSCAN.**
 
 
 ---
