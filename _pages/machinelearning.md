@@ -21,7 +21,7 @@ header:
 This project has text pre-processing done through NLTK and Regex and EDA for understanding the features and data well.
 The text is then coverted into vectors using 2 techniques - **Countvectorize and TF-IDF**.
 Two Machine Learning algorithms **(Naive Bayes and SVM)** are then used with combonitions of above 2 techniques and it is found that Naive Bayes with TF-IDF outstands the other algorithm.
-The model is then saved in a **Pickle file** and used in the **Flask Application** to host the website on localhost.</span>
+The model is then saved in a **Pickle file** and used in the **Flask Application** to host the website on localhost.love</span>
 
 ---
 ### Spotify-EDA
