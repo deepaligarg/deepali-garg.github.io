@@ -89,7 +89,7 @@ For clustering, unsupervised machine learning algorithms are used such as-
 1. KMeans-Clustering
 2. Silhoutte Method for determining optimal values of clusters(K in KMeans)
 3. Hierarchial Clustering - Methods: Single, Average and Complete.
-4. DBSCAN </span>
+4. DBSCAN</span>
 
 ---
 ### Clustering of Credit Card Users
@@ -100,7 +100,7 @@ For clustering, unsupervised machine learning algorithms are used such as-
 
 
 <span style="font-family:Segoe UI; font-size:1;">This is a use-case of clustering the credit card customers on the basis of various attributes using Unsupervised Machine Learning Techniques.
-The project is a blend of detailed EDA and unsupervised machine learning algorithms such as **K-Means Clustering, Hierarchial Clustering and DBSCAN.**</span>
+The project is a blend of detailed EDA and unsupervised machine learning algorithms such as **K-Means Clustering, Hierarchial Clustering and DBSCAN.** </span>
 
 
 ---
@@ -153,8 +153,7 @@ The project contains detailed EDA of the dataset taken and the prediction is don
 
 <span style="font-family:Segoe UI; font-size:1;">This project involves predicting the prices of the cars in order to give insights to the company to set up business in different locations.
 The project containes EDA and VIF (Variance Inflation Factor) for measuring amount of multicolinearity in a set of multiple regression variables. 
-Feature seclection is done through sklearn's library - RFE and prediction by applying Linear Regression.
-</span>
+Feature seclection is done through sklearn's library - RFE and prediction by applying Linear Regression. </span>
 ---
 ### Salary Prediction
 
