@@ -92,7 +92,7 @@ For clustering, unsupervised machine learning algorithms are used such as-
 4. DBSCAN 
 
 ---
-# Clustering of Credit Card Users
+### Clustering of Credit Card Users
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/deepaligarg/Clustering-Credit-Card-Users)
 [![View on GitHub](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](https://github.com/deepaligarg/Sentiment-Analysis-using-IMDB-movies-reviews)
@@ -106,7 +106,7 @@ The project is a blend of detailed EDA and unsupervised machine learning algorit
 ---
 ## Supervised Machine Learning
 
-# Credit-Card-Imbalanced-Dataset
+### Credit-Card-Imbalanced-Dataset
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/deepaligarg/Credit-Card-Imbalanced-Dataset)
 [![View on GitHub](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](https://github.com/deepaligarg/Sentiment-Analysis-using-IMDB-movies-reviews)
