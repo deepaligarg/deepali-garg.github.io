@@ -43,8 +43,8 @@ The code contains text pre-processing and detailed EDA to yield following trends
 
  
  ---
+### Classifying Fake News
 
- 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/deepaligarg/Fake-News-Classification-Deep-Learning)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](https://github.com/deepaligarg/Fake-News-Classification-Deep-Learning/blob/master/Fake%20News%20Classifier%20with%20LSTM.ipynb)
 [![View Dataset](https://img.shields.io/badge/Dataset-View_Dataset-blueviolet?logo=Microsoft%20Excel)](https://www.kaggle.com/c/fake-news)
