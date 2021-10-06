@@ -31,14 +31,14 @@ The model is then saved in a **Pickle file** and used in the **Flask Application
 [![View on GitHub](https://img.shields.io/badge/Database-View_Database-blueviolet?logo=Microsoft%20Excel)](https://github.com/deepaligarg/Sentiment-Analysis-using-IMDB-movies-reviews)
 
 <span style="font-family:Segoe UI; font-size:1;">Spotify is an extremely popular music application. This project consumes a large dataset of songs and gives various reports and trends on those songs.
-The code contains text pre-processing and detailed EDA to yield following trends :
+The code contains text pre-processing and detailed EDA to yield following trends : </span>
  1. 20 Most Popular Songs.
  2. 20 Most Popular Artists.
  3. Audio Characteristics over the year.
  4. Artists with maximum number of Songs.
  5. Songs released Year-wise.
 
-Also the popularity of the songs have been estimated using Deep Learning with **Neaural Networks**. </span>
+Also the popularity of the songs have been estimated using Deep Learning with **Neaural Networks**.
 
  
  ---
@@ -85,12 +85,12 @@ This notebook depicts the use of **Deep Learning** technique - **Artificial Neur
 [![View on GitHub](https://img.shields.io/badge/Database-View_Database-blueviolet?logo=Microsoft%20Excel)](https://github.com/deepaligarg/Sentiment-Analysis-using-IMDB-movies-reviews)
 
 <span style="font-family:Segoe UI; font-size:1;">This application is for clustering and grouping customers based on their purchase history to give insights to the retail department.
-For clustering, unsupervised machine learning algorithms are used such as-
+For clustering, unsupervised machine learning algorithms are used such as- </span>
 
 1. KMeans-Clustering
 2. Silhoutte Method for determining optimal values of clusters(K in KMeans)
 3. Hierarchial Clustering - Methods: Single, Average and Complete.
-4. DBSCAN </span>
+4. DBSCAN 
 
 
 ---
@@ -116,12 +116,12 @@ The project is a blend of detailed EDA and unsupervised machine learning algorit
 
 <span style="font-family:Segoe UI; font-size:1;">Mostly in Banking domains or credit card use cases, the data for predicting a transaction as fraudulent is extremely low due to less evidence for fraud cases resulting in an Imbalanced Dataset for ML use cases. This projrct deals with 3 techniques of handling such cases. 
 
-The 3 Techniques discussed in the notebook are :
+The 3 Techniques discussed in the notebook are :  </span>
 1. Under-sampling
 2. Over-sampling
 3. SMOTE Technique
 
-Then a **Random Forest** algorithm is applied to check the performance of each technique. </span>
+Then a **Random Forest** algorithm is applied to check the performance of each technique.
 
 
 ---
