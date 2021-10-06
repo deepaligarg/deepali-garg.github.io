@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/IMG_20181020_010123.jpg"
 ---
 
 ## Career Objectives
