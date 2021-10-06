@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/IMG_20181020_010123.jpg"
+  image: "/images/cover_1.jpg"
 ---
 
 ## Career Objectives
