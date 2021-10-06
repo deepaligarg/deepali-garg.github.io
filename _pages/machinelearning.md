@@ -32,16 +32,17 @@ The model is then saved in a **Pickle file** and used in the **Flask Application
 
 <span style="font-family:Segoe UI; font-size:1;">Spotify is an extremely popular music application. This project consumes a large dataset of songs and gives various reports and trends on those songs.
 The code contains text pre-processing and detailed EDA to yield following trends : </span>
+<span style="font-family:Segoe UI; font-size:1;">
  1. 20 Most Popular Songs.
  2. 20 Most Popular Artists.
  3. Audio Characteristics over the year.
  4. Artists with maximum number of Songs.
- 5. Songs released Year-wise.
+ 5. Songs released Year-wise. </span>
 
-Also the popularity of the songs have been estimated using Deep Learning with **Neaural Networks**.
+<span style="font-family:Segoe UI; font-size:1;">Also the popularity of the songs have been estimated using Deep Learning with **Neaural Networks**. </span>
 
  
- ---
+ 
  ### Fake New Classification
  
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/deepaligarg/Fake-News-Classification-Deep-Learning)
@@ -114,9 +115,9 @@ The project is a blend of detailed EDA and unsupervised machine learning algorit
 [![View on GitHub](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](https://github.com/deepaligarg/Sentiment-Analysis-using-IMDB-movies-reviews)
 [![View on GitHub](https://img.shields.io/badge/Database-View_Database-blueviolet?logo=Microsoft%20Excel)](https://github.com/deepaligarg/Sentiment-Analysis-using-IMDB-movies-reviews)
 
-<span style="font-family:Segoe UI; font-size:1;">Mostly in Banking domains or credit card use cases, the data for predicting a transaction as fraudulent is extremely low due to less evidence for fraud cases resulting in an Imbalanced Dataset for ML use cases. This projrct deals with 3 techniques of handling such cases. 
+<span style="font-family:Segoe UI; font-size:1;">Mostly in Banking domains or credit card use cases, the data for predicting a transaction as fraudulent is extremely low due to less evidence for fraud cases resulting in an Imbalanced Dataset for ML use cases. This projrct deals with 3 techniques of handling such cases. </span>
 
-The 3 Techniques discussed in the notebook are :  </span>
+The 3 Techniques discussed in the notebook are :  
 1. Under-sampling
 2. Over-sampling
 3. SMOTE Technique
