@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Deepali Garg"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG_20181020_010123.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Ghaziabad, Uttar Pradesh, India"
   email            : "deepaligarg585@gmail.com"
