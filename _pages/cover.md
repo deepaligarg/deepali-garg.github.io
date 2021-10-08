@@ -1,7 +1,6 @@
 ---
-url: https://deepaligarg.github.io/
 title: "Deepali Garg"
-author_profile: true
+mathjax: true
 header:
   image: "/images/pic_project_crop.jpg"
 ---
