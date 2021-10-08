@@ -1,5 +1,5 @@
 ---
-
+permalink : deepaligarg.github.io
 title: "Deepali Garg"
 author_profile: true
 header:
