@@ -64,6 +64,15 @@
           </a>
         </li>
       {% endif %}
+      
+      {% if author.github %}
+        <li>
+          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      {% endif %}
+
 
       {% if author.keybase %}
         <li>
@@ -72,14 +81,15 @@
           </a>
         </li>
       {% endif %}
-
-      {% if author.twitter %}
+      
+      {% if author.linkedin %}
         <li>
-          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
           </a>
         </li>
       {% endif %}
+
 
       {% if author.facebook %}
         <li>
@@ -97,13 +107,7 @@
         </li>
       {% endif %}
 
-      {% if author.linkedin %}
-        <li>
-          <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
-          </a>
-        </li>
-      {% endif %}
+
 
       {% if author.xing %}
         <li>
@@ -117,6 +121,15 @@
         <li>
           <a href="https://instagram.com/{{ author.instagram }}" itemprop="sameAs">
             <i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram
+          </a>
+        </li>
+      {% endif %}
+      
+      
+      {% if author.twitter %}
+        <li>
+          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
           </a>
         </li>
       {% endif %}
@@ -137,13 +150,6 @@
         </li>
       {% endif %}
 
-      {% if author.github %}
-        <li>
-          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
-          </a>
-        </li>
-      {% endif %}
 
       {% if author.gitlab %}
         <li>
