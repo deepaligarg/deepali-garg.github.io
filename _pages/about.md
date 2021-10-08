@@ -5,7 +5,7 @@ header:
   image: "/images/cover_2.jpg"
 ---
 
-## Career Objectives
+## Career Objective
 
 My name is Deepali Garg. I am an analyst working in a Financial organization. I have 3+ years of industrial experience of analysing data, buidling and deploying machine learning models. I am proficient in Python, SAS, data retrieval and processing with SQL, Hive, data visualization with Tableau, Matplotlib and Seaborn. I am interested in working with large datasets, including cleaning, connecting and mining data. I have built various projects in the fields of Machine Learning, Deep Learning and Natural Language Processing.  
 
