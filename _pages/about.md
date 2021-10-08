@@ -11,7 +11,7 @@ My name is Deepali Garg. I am an analyst working in a Financial organization. I 
 
 I am fascinated about the data and has an interest in solving mysteries behind it. Also, being a passionate learner, I tend to eplore opportunites to widen my horizon and vision of the data and it's capibilities. I love to read AI blogs, watch YouTube tutorials and listen to AI podcasts. I am learning so much from the AI community, where knowledge is shared to challenge the boundary of computer intelligence.  
 
-I have completed my graduation with B.Tech(Hons) in Computer Science from Jaypee Institute of Information Technology, Noida, India. I secured a CGPA of 8.4.
+I have completed my B.Tech(Hons) in Computer Science from Jaypee Institute of Information Technology, Noida, India. I secured a CGPA of 8.4.
 
 
 ## Hobbies
